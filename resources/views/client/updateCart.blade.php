@@ -12,10 +12,6 @@
 <h1>
     UpdateCart đây
 </h1>
-<?php
-
-
-//?>
 
 </body>
 </html>
